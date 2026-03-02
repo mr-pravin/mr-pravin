@@ -6,21 +6,21 @@
 <div align="center">
 
 <!-- ═══ HERO BANNER ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=220&section=header&text=PRAVIN%20MR&fontSize=72&fontColor=00d2ff&fontAlignY=40&fontStyle=bold&desc=AI%20%C2%B7%20ML%20%C2%B7%20GenAI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20On-Device%20Inference&descSize=16&descColor=7fdbff&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=220&section=header&text=PRAVIN%20MR&fontSize=72&fontColor=00d2ff&fontAlignY=40&fontStyle=bold&desc=AI%20·%20ML%20·%20GenAI%20·%20Agentic%20Systems%20·%20On-Device%20Inference&descSize=16&descColor=7fdbff&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <!-- ═══ TYPING ANIMATION ═══ -->
-<!-- Using herokuapp mirror — more stable than demolab when rate-limited -->
+<!-- Using herokuapp — more stable than demolab when rate-limited -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Building+GraphRAG+memory+engines+for+1%2C000%2B+users+%F0%9F%A7%A0;Shipping+production+AI+on+Android+in+50+MB+%F0%9F%93%B1;Agentic+pipelines+that+think%2C+act+%26+publish+%F0%9F%A4%96;On-device+inference+at+200ms+latency+%E2%9A%A1;Founder+%40+INFINEURONITY+%C2%B7+2+PyPI+libraries+published+%F0%9F%93%A6;UPI+Fraud+Detection+%C2%B7+96%25+precision+in+production+%F0%9F%94%92" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- ═══ SOCIAL BADGES ═══ -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrpravin.dev-00d2ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://mrpravin000.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mr--pravin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/mr-pravin)
-[![GitHub](https://img.shields.io/badge/GitHub-mr--pravin-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin)
-[![PyPI](https://img.shields.io/badge/PyPI-2_Libraries-3775A9?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0d1117)](https://pypi.org/user/mr-pravin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mr--pravin-00d2ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/mr-pravin)
+[![GitHub](https://img.shields.io/badge/GitHub-mr--pravin-00d2ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin)
+[![PyPI](https://img.shields.io/badge/PyPI-2_Libraries-00d2ff?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0d1117)](https://pypi.org/user/mr-pravin)
 [![Play Store](https://img.shields.io/badge/Google_Play-INFINEURONITY-00d2ff?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0d1117)](https://play.google.com/store)
-[![Email](https://img.shields.io/badge/Email-mrpravin000-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mrpravin000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mrpravin000-00d2ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mrpravin000@gmail.com)
 
 </div>
 
@@ -54,18 +54,17 @@ pravin = {
 ---
 
 <!-- ═══ GITHUB STATS ═══ -->
-<!-- Using cache_seconds to reduce rate-limit failures -->
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-pravin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&ring_color=00d2ff&border_radius=14&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-pravin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&ring_color=00d2ff&border_radius=14&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=mr-pravin&theme=dark&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=7fdbff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&cache_seconds=1800" alt="GitHub Streak"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=mr-pravin&theme=dark&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=7fdbff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-pravin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&border_radius=14&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-pravin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&border_radius=14&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 ---
@@ -88,28 +87,35 @@ pravin = {
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
 [![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://postman.com)
 
 **〔 ML · GenAI · Agentic Systems 〕**
 
 ![LangChain](https://img.shields.io/badge/LangChain-00d2ff?style=flat-square&logo=chainlink&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-00d2ff?style=flat-square&labelColor=0d1117)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-Knowledge_Graphs-00d2ff?style=flat-square&labelColor=0d1117)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-Agentic_Pipelines-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-00d2ff?style=flat-square&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-00d2ff?style=flat-square&labelColor=0d1117)
+![n8n](https://img.shields.io/badge/n8n-Agentic_Pipelines-00d2ff?style=flat-square&logo=n8n&logoColor=white&labelColor=0d1117)
+![Gemini](https://img.shields.io/badge/Gemini_API-00d2ff?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00d2ff?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00d2ff?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-7fdbff?style=flat-square&logo=opencv&logoColor=white&labelColor=0d1117)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-7fdbff?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
+![Pydantic](https://img.shields.io/badge/Pydantic-7fdbff?style=flat-square&logo=pydantic&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-7fdbff?style=flat-square&logo=numpy&logoColor=white&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-7fdbff?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7fdbff?style=flat-square&labelColor=0d1117)
+![Seaborn](https://img.shields.io/badge/Seaborn-7fdbff?style=flat-square&labelColor=0d1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-7fdbff?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117)
+![Streamlit](https://img.shields.io/badge/Streamlit-00d2ff?style=flat-square&logo=streamlit&logoColor=white&labelColor=0d1117)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00d2ff?style=flat-square&labelColor=0d1117)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-00d2ff?style=flat-square&labelColor=0d1117)
 ![Embeddings](https://img.shields.io/badge/Embeddings-7fdbff?style=flat-square&labelColor=0d1117)
 ![Quantization](https://img.shields.io/badge/4bit_Quantization-7fdbff?style=flat-square&labelColor=0d1117)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00d2ff?style=flat-square&labelColor=0d1117)
+![Serial Communication](https://img.shields.io/badge/Serial_Communication-7fdbff?style=flat-square&labelColor=0d1117)
+![Weights & Biases](https://img.shields.io/badge/W%26B-Experiment_Tracking-00d2ff?style=flat-square&logo=weightsandbiases&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -146,7 +152,7 @@ Deployed a production fraud detection API that processes live UPI transactions i
 ![Status](https://img.shields.io/badge/Status-Live_in_Production-7fdbff?style=flat-square&labelColor=0d1117)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-guardian--upi.vercel.app-00d2ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://guardian-upi.vercel.app/)
-[![Source](https://img.shields.io/badge/GitHub-Source_Code-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin/UPI)
+[![Source](https://img.shields.io/badge/GitHub-Source_Code-00d2ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin/UPI)
 
 </td>
 </tr>
@@ -161,7 +167,7 @@ Fully autonomous content pipeline: scrapes trends → LLM drafts SEO LinkedIn po
 ![Saved](https://img.shields.io/badge/⏱_Time_Saved-80%25-00d2ff?style=flat-square&labelColor=0d1117)
 ![Stack](https://img.shields.io/badge/Gemini_+_n8n-Agentic-7fdbff?style=flat-square&labelColor=0d1117)
 
-[![Source](https://img.shields.io/badge/GitHub-Source_Code-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin)
+[![Source](https://img.shields.io/badge/GitHub-Source_Code-00d2ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin)
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +180,7 @@ Real-time gesture recognition on **21-point hand landmarks** achieving **94% acc
 ![Accuracy](https://img.shields.io/badge/🎯_Accuracy-94%25-00d2ff?style=flat-square&labelColor=0d1117)
 ![FPS](https://img.shields.io/badge/🏃_Speed-30_FPS_CPU-7fdbff?style=flat-square&labelColor=0d1117)
 
-[![Source](https://img.shields.io/badge/GitHub-Source_Code-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin/HumanIO)
+[![Source](https://img.shields.io/badge/GitHub-Source_Code-00d2ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin/HumanIO)
 
 </td>
 </tr>
@@ -200,7 +206,7 @@ Authored a Python learning book in Tanglish (Tamil + English) to lower the barri
 ![Copies](https://img.shields.io/badge/📖_Copies-300%2B_Distributed-00d2ff?style=flat-square&labelColor=0d1117)
 ![Language](https://img.shields.io/badge/Language-Tanglish-7fdbff?style=flat-square&labelColor=0d1117)
 
-[![Read](https://img.shields.io/badge/GitHub-Read_the_Book-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin/Think-Python-In-Tanglish)
+[![Read](https://img.shields.io/badge/GitHub-Read_the_Book-00d2ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin/Think-Python-In-Tanglish)
 
 </td>
 </tr>
@@ -221,14 +227,6 @@ Authored a Python learning book in Tanglish (Tamil + English) to lower the barri
 ---
 
 <!-- ═══ SNAKE ANIMATION ═══ -->
-<!-- 
-  HOW TO ACTIVATE THE SNAKE:
-  1. Create .github/workflows/snake.yml in THIS repo (mr-pravin/mr-pravin)
-  2. Paste the YAML workflow into it and commit
-  3. Go to Actions tab → "Generate Snake" → "Run workflow"
-  4. Wait ~30s → check your repo branches for "output" branch
-  5. Once "output" branch exists, delete these comment tags to show the snake
--->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
