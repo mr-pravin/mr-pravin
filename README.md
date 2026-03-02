@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ─── HERO BANNER ─── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a1628,80:0d2137,100:000000&height=220&section=header&text=PRAVIN%20MR&fontSize=72&fontColor=FFA500&fontAlignY=40&fontStyle=bold&desc=AI%20%C2%B7%20ML%20%C2%B7%20GenAI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20On-Device%20Inference&descSize=15&descColor=4FC3F7&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=220&section=header&text=PRAVIN%20MR&fontSize=72&fontColor=00d2ff&fontAlignY=40&fontStyle=bold&desc=AI%20%C2%B7%20ML%20%C2%B7%20GenAI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20On-Device%20Inference&descSize=15&descColor=7fdbff&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
