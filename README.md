@@ -14,7 +14,7 @@
 
 <!-- ═══ BRAND LOGO ═══ -->
 <div align="center">
-  <img src="infineuronity_logo.png" width="300" alt="INFINEURONITY Logo" />
+  <img src="https://raw.githubusercontent.com/mr-pravin/mr-pravin/main/infineuronity_logo.png" width="300" alt="INFINEURONITY Logo" />
 </div>
 
 <br/><br/>
@@ -58,27 +58,27 @@ pravin = {
 ---
 
 <!-- ═══ GITHUB STATS ═══ -->
+<!-- Using github-profile-summary-cards (stable) instead of github-readme-stats (503) -->
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-pravin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&ring_color=00d2ff&border_radius=14&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 
 <img height="180" src="https://streak-stats.demolab.com/?user=mr-pravin&theme=dark&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=7fdbff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-pravin&theme=github_dark" alt="GitHub Stats"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-pravin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&border_radius=14&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-pravin&theme=github_dark" alt="Top Languages by Repo"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-pravin&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+
 </div>
 
-<!-- ═══ GITHUB TROPHIES ═══ -->
+<!-- ═══ PROFILE DETAILS ═══ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-pravin&theme=dracula&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-<!-- ═══ ACHIEVEMENTS ═══ -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-pravin&theme=github_dark" alt="GitHub Achievements" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-pravin&theme=github_dark" alt="Profile Details" width="100%"/>
 </div>
 
 ---
