@@ -76,6 +76,11 @@ pravin = {
   <img src="https://github-profile-trophy.vercel.app/?username=mr-pravin&theme=dracula&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
+<!-- ═══ ACHIEVEMENTS ═══ -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-pravin&theme=github_dark" alt="GitHub Achievements" />
+</div>
+
 ---
 
 <!-- ═══ TECH ARSENAL ═══ -->
