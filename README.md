@@ -12,13 +12,18 @@
 <!-- Using herokuapp — more stable than demolab when rate-limited -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Building+GraphRAG+memory+engines+for+1%2C000%2B+users+%F0%9F%A7%A0;Shipping+production+AI+on+Android+in+50+MB+%F0%9F%93%B1;Agentic+pipelines+that+think%2C+act+%26+publish+%F0%9F%A4%96;On-device+inference+at+200ms+latency+%E2%9A%A1;Founder+%40+INFINEURONITY+%C2%B7+2+PyPI+libraries+published+%F0%9F%93%A6;UPI+Fraud+Detection+%C2%B7+96%25+precision+in+production+%F0%9F%94%92" alt="Typing SVG" />
 
+<!-- ═══ BRAND LOGO ═══ -->
+<div align="center">
+  <img src="infineuronity_logo.png" width="300" alt="INFINEURONITY Logo" />
+</div>
+
 <br/><br/>
 
 <!-- ═══ SOCIAL BADGES ═══ -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrpravin.dev-00d2ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://mrpravin000.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mr--pravin-00d2ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/mr-pravin)
 [![GitHub](https://img.shields.io/badge/GitHub-mr--pravin-00d2ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mr-pravin)
-[![PyPI](https://img.shields.io/badge/PyPI-2_Libraries-00d2ff?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0d1117)](https://pypi.org/user/mr-pravin)
+[![PyPI](https://img.shields.io/badge/PyPI-2_Libraries-00d2ff?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0d1117)](https://pypi.org/user/mrpravin)
 [![Play Store](https://img.shields.io/badge/Google_Play-INFINEURONITY-00d2ff?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0d1117)](https://play.google.com/store)
 [![Email](https://img.shields.io/badge/Email-mrpravin000-00d2ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mrpravin000@gmail.com)
 
@@ -39,7 +44,6 @@ pravin = {
     "focus"     : [
         "GraphRAG · Knowledge Graphs",
         "Agentic LLM Systems",
-        "On-Device Inference",
         "Semantic Retrieval",
     ],
     "shipped"   : "1,000+ Android users · 2 PyPI libs",
@@ -65,6 +69,11 @@ pravin = {
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-pravin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&border_radius=14&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+</div>
+
+<!-- ═══ GITHUB TROPHIES ═══ -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-pravin&theme=dracula&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
